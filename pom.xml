@@ -9,11 +9,11 @@
         <version>2.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.yupi</groupId>
+    <groupId>com.cgc</groupId>
     <artifactId>ApiZen</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ApiZen</name>
-    <description>springboot 初始项目</description>
+    <description>ApiZen接口</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
