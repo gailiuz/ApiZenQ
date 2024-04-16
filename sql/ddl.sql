@@ -1,8 +1,8 @@
 -- 创建库
-create database if not exists cgc;
+create database if not exists Api;
 
 -- 切换库
-use cgc;
+use Api;
 
 -- 用户表
 create table if not exists user
